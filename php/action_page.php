@@ -69,7 +69,7 @@ if (isset($_POST['Email'])) {
     @mail($email_to, $email_subject, $email_message, $headers);
 ?>
 
-    <!-- include your success message belowt -->
+    <!-- include your success message below -->
 
     Bedankt voor je bericht. Je zal snel van ons horen.
 
