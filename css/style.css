@@ -1587,6 +1587,19 @@ h1, h2, h3, h4, h5,
     transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   }
 
+  .zoom-diensten {
+    background-color: rgba(255, 255, 255, 0);
+    transition: transform .2s; /* Animation */
+    width: 373px;
+    height: 224px;
+    margin: 0 auto;
+  }
+  
+  .zoom-diensten:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+
   /* Splashscreen */
   .splash{
     position: fixed;
