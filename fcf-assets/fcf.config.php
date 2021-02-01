@@ -80,8 +80,8 @@ define('EMAIL_OUT_FROM_NAME', '');
 // *************
 // EMAIL MESSAGE
 // *************
-define('EMAIL_TO', 'joshua.susanto@kvalita.nl');
-define('EMAIL_TO_NAME', 'Joshua');
+define('EMAIL_TO', '');
+define('EMAIL_TO_NAME', '');
 
 define('EMAIL_TO_CC', '');
 define('EMAIL_TO_CC_NAME', '');
