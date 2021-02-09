@@ -299,8 +299,8 @@ jQuery(document).ready(function($) {
 	// Component header
 
 		$(function(){
-				  $("#navigation").load("/components/navigationbar.html");
-				  $("#footer").load("/components/footer.html");
+				  $("#navigation").load("./components/navigationbar.html");
+				  $("#footer").load("./components/footer.html");
 				});
 
 

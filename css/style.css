@@ -1744,6 +1744,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
+  font-family: 'Roboto Slab', sans-serif;
   background-color: white;
   color: #FF500B;
   padding: 12px 20px;
@@ -1765,5 +1766,4 @@ input[type=submit]:hover {
   color: black;
   padding: 50px;
 }
-
   
