@@ -301,6 +301,7 @@ jQuery(document).ready(function($) {
 		$(function(){
 				  $("#navigation").load("./components/navigationbar.html");
 				  $("#footer").load("./components/footer.html");
+				  $("#blog-sectie").load("./components/blog-sectie.html");
 				});
 
 
